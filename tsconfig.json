@@ -9,8 +9,9 @@
     "strict": true,
     "noImplicitAny": true,
     "skipLibCheck": true,
+    "allowJs": true
   },
-  "include": ["src/**/*"],
+  "include": ["src/**/*", "**/*.js"],
   "exclude": [
     "node_modules"
   ]
